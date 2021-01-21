@@ -50,7 +50,7 @@
     "karma-webpack": "^1.7.0",
     "ng-annotate-loader": "^0.2.0",
     "phantomjs-prebuilt": "2.1.x",
-    "socket.io": "^1.5.0",
+    "socket.io": "^2.4.0",
     "string-loader": "0.0.1",
     "style-loader": "^0.16.1",
     "uglify-js": "^2.6.2"
